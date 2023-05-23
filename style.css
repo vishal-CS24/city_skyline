@@ -271,7 +271,7 @@ height: 50%;
         border-right: 5vw solid transparent;
       }
 
-@media (max-width:1000px){
+@media (max-width:900px){
     :root{
         --building-color1: #000;
            --building-color2: #000;
