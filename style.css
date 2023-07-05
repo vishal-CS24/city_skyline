@@ -282,7 +282,8 @@ height: 50%;
              --window-color3:#777;
              --window-color4: #777;
        }
+    
     .sky {
-        background: radial-gradient(circle closest-corner at 15% 15%, #ccc, #ccc 20%, #445 21%, #223 100%);
+        background: radial-gradient(circle closest-corner at 15% 15%, #ccc, #ccc 21%, #445 21%, #223 100%);
         }
 }
